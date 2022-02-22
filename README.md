@@ -1,5 +1,5 @@
 # Variables, Conditions & Loops in JavaScript
-Declaring my love for Pineapple pizza, telling you some info about me, and then counting some random numbers, for fun!
+Declaring my love for Pineapple pizza, telling you some info about me, and then counting some random numbers, why not!
 
 
 "Task: This lab focuses on declaring and initializing variables, conditional statements, template
